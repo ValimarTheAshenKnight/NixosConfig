@@ -7,7 +7,7 @@
     {
       logo =
       {
-        source = "~/Pictures/ProfilePictures/fury_logo.jpg";
+        source = "~/Pictures/Wallpaper/berserk.jpg";
         padding =
         {
           top = 2;
