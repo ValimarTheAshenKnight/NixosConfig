@@ -19,7 +19,6 @@
     image-roll
     # Office
     libreoffice
-    thunderbird
     xfce.mousepad
     # Chromium
     brave
