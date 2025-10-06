@@ -1,0 +1,25 @@
+{...}:
+{
+  imports =
+  [
+    ./compositors/hyprland.nix
+    ./customOptions/desktopDriverOptions.nix
+    ./customOptions/desktopSoftwareOptions.nix
+    ./customOptions/desktopSystemOptions.nix
+    ./hardware/amdgpu.nix
+    ./hardware/bluetooth.nix
+    ./hardware/kernel.nix
+    ./hardware/printing.nix
+    ./hardware/sound.nix
+    ./software/devApps.nix
+    ./software/flatpak.nix
+    ./software/gamingApps.nix
+    ./software/systemApps.nix
+    ./software/ttyApps.nix
+    ./software/virtualisation.nix
+    ./system/defaultEnvVar.nix
+    ./system/commonOptions.nix
+    ./system/fonts.nix
+    ./software/wmSoftware.nix
+  ];
+}
