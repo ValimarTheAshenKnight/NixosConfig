@@ -9,7 +9,6 @@
     unrar
     unzip
     usbutils
-    wf-recorder
   ];
   programs.fish =
   {
