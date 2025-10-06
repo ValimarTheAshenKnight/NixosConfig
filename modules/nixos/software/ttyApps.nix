@@ -4,7 +4,6 @@
   [
     git
     lazygit
-    neovim
     nix-prefetch-git
     psmisc
     unrar
