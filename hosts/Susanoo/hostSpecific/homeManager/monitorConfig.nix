@@ -7,8 +7,8 @@ let
   sideMonitor = "desc:Samsung Electric Company U32J59x HTPK701828";
  # Wallpapers
   wallpaperOne = "~/Pictures/Wallpapers/DoomSlayerDE.png";
-  wallpaperTwo = "~/Pictures/WallpapersDoomSlayerDTDA.png";
-  lockedWallpaper = "~/Pictures/WallpapersDoomSlayerDTDA.png";
+  wallpaperTwo = "~/Pictures/Wallpapers/DoomSlayerDTDA.png";
+  lockedWallpaper = "~/Pictures/Wallpapers/DoomSlayerDTDA.png";
 in
 {
   desktop.system.mainMon =
