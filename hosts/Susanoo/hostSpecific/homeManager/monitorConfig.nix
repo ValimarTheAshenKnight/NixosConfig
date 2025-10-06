@@ -5,9 +5,10 @@ let
   defaultRefreshRate = "120.00";
   mainMonitor = "desc:Samsung Electric Company Odyssey G70B H1AK500000";
   sideMonitor = "desc:Samsung Electric Company U32J59x HTPK701828";
-  wallpaperOne = "~/Pictures/Background/Superwide/Death_Superwide.png";
-  wallpaperTwo = "~/Pictures/Background/Uncompressed/red_transistor.png";
-  lockedWallpaper = "~/Pictures/Background/Uncompressed/evangelion.png";
+ # Wallpapers
+  wallpaperOne = "~/Pictures/Wallpapers/DoomSlayerDE.png";
+  wallpaperTwo = "~/Pictures/WallpapersDoomSlayerDTDA.png";
+  lockedWallpaper = "~/Pictures/WallpapersDoomSlayerDTDA.png";
 in
 {
   desktop.system.mainMon =
