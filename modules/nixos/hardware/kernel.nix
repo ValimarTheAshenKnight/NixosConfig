@@ -5,13 +5,11 @@ in
 {
   imports =
   [
-    ./kernelConfig/scxConfig.nix
     ./kernelConfig/kernelModules.nix
-    ./kernelConfig/xpadExtraRules.nix
   ];
   boot =
   {
-    #kernelPackages = pkgs.linuxPackages_cachyos-lts;
+    kernelPackages = pkgs.linuxPackages_cachyos-lts;
     kernelParams =
     [
       "quiet"
