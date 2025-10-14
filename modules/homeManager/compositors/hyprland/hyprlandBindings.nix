@@ -52,7 +52,6 @@ in
       # Layout shortcut
       "${mainMod}, TAB, layoutmsg, swapsplit"
       "${mainMod}, HOME, layoutmsg, movetoroot active unstable"
-      "${mainMod}, P, pseudo,"
       # System
       "${mainMod}, END, killactive,"
       "${mainMod}, F, fullscreen,"
@@ -77,9 +76,9 @@ in
       "${mainModAlt}, PAGE_UP, workspace, e+1"
       "${mainModAlt}, PAGE_DOWN, workspace, e-1"
       # Screenshot
-      ", PRINT, exec, hyprshot -m window -m active --freeze"
-      "${mainModShift}, PRINT, exec, hyprshot -m output -m active --freeze"
-      "${mainModControl}, PRINT, exec, hyprshot -m region --freeze"
+      "${mainMod}, P, exec, hyprshot -m window -m active --freeze"
+      "${mainModShift}, P, exec, hyprshot -m output -m active --freeze"
+      "${mainModControl}, P, exec, hyprshot -m region --freeze"
     ];
   };
 }
