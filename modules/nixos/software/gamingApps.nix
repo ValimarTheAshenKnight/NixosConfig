@@ -3,7 +3,6 @@
   environment.systemPackages = with pkgs;
   [
     heroic
-    jstest-gtk
     mangohud
     mangojuice
     protonplus
