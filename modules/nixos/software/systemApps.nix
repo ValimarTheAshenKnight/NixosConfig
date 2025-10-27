@@ -18,7 +18,7 @@
     vlc
     image-roll
     # Office
-    libreoffice
+    onlyoffice-desktopeditors
     xfce.mousepad
     # Chromium
     brave

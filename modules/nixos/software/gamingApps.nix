@@ -9,7 +9,7 @@
     ryubing
     shadps4
     vkbasalt
-    antimicrox
+    jstest-gtk
   ];
   programs =
   {
