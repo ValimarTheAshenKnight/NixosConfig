@@ -10,6 +10,7 @@
     shadps4
     vkbasalt
     jstest-gtk
+    edopro
   ];
   programs =
   {
