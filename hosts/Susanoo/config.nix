@@ -14,7 +14,7 @@
     };
     printing =
     {
-      enable = true;
+      enable = false;
     };
     software =
     {

@@ -9,7 +9,7 @@ in
   ];
   boot =
   {
-    kernelPackages = pkgs.linuxPackages_latest;
+    kernelPackages = pkgs.linuxPackages_cachyos;
     kernelParams =
     [
       "quiet"
