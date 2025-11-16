@@ -11,6 +11,7 @@
     vkbasalt
     jstest-gtk
     edopro
+    dolphin-emu
   ];
   programs =
   {
