@@ -28,6 +28,7 @@
     resources
     unigine-heaven
     unigine-valley
+    qbittorrent
   ];
   programs =
   {
